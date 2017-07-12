@@ -7,15 +7,15 @@
 	<body>
 
 		<header>
-			<strong>Planets of the Universe</strong>
+			<h1>Planets of the Universe</h1>
+			{% include nav.html %}
 		</header>
-		<nav>
-			<ul>
-				<li><a href="{{site.baseurl}}/index.html">Home</a></li>
-				<li><a href="{{site.baseurl}}/news.html">News</a></li>
-		</nav>
-	
+
 		{{content}}
 
-</body>
+		<footer>
+			{% include nav.html %}
+			<p>© 2017 Planets of the Universe</p>
+		</footer>
+	</body>
 </html>
