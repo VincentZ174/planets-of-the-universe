@@ -1,5 +1,5 @@
 ---
-layout: news
+layout: news-article
 title: Newly Discovered Planet Has 3 Suns
 meta: A newly discovered planet recently named Tatooine has either constant daylight or triple sunrises and setsets each day.
 source: https://www.nasa.gov/feature/goddard/2016/newly-discovered-planet-has-3-suns.html
