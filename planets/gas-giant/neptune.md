@@ -2,7 +2,7 @@
 layout: planet
 title: Neptune
 meta: Neptune is the eighth and farthest known planet from the Sun in the Solar System.In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. 
-type: Gas Giant
+type: gas giant
 discoverer: Urbain Le Verrier, Johann Gottfried Galle, John Couch Adams
 discovered: 1846-09-23
 orbit: 165 years

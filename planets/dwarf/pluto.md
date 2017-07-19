@@ -1,7 +1,7 @@
 ---
 layout: planet
 title: Pluto
-meta: Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune. It was the first Kuiper belt object to be discovered.
+meta: Pluto is a dwarf planet in the Kuiper belt, a ring of bodies beyond Neptune. It was the first Kuiper belt object to be discovered.
 type: dwarf
 discoverer: Clyde W. Tombaugh
 discovered: 1930-02-18

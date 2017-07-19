@@ -2,7 +2,7 @@
 layout: planet
 title: Mars
 meta: Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, after Mercury. Named after the Roman god of war, it is often referred to as the "Red Planet".
-type: Terrestrial
+type: terrestrial
 discoverer: Urbain Le Verrier, Johann Gottfried Galle, John Couch Adams
 discovered: unknown
 orbit: 165 years

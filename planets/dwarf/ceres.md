@@ -2,7 +2,7 @@
 layout: planet
 title: Ceres
 meta: Ceres is the largest object in the asteroid belt that lies between the orbits of Mars and Jupiter.
-type: Dwarf
+type: dwarf
 discoverer: Giuseppe Piazzi
 discovered: 1801-01-01
 orbit: 4.6 years

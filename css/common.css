@@ -24,3 +24,7 @@ html {
 .nav-top {
 	font-size: 1.25rem;
 }
+
+#no-underline {
+	text-decoration: none;
+}
