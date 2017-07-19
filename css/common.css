@@ -6,10 +6,14 @@ html {
 }
 
 .masthead {
-	padding: 1em;
+	padding: 1.2em;
 	background: #000531 url("../img/background.jpg") no-repeat center center;
 	background-size: cover;
-	color: #fff;
+	color:  #fff;
+}
+
+.mast-color {
+	color:  #8A0A8A;
 }
 
 .current {
