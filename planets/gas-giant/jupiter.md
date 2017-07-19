@@ -2,7 +2,7 @@
 layout: planet
 title: Jupiter
 meta: Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a giant planet with a mass one-thousandth that of the Sun, but two and a half times that of all the other planets in the Solar System combined. 
-type: gas giant
+type: gas-giant
 discoverer: Galileo Galilei
 discovered: 1610-01-07
 orbit: 11.8618 years
